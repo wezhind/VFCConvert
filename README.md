@@ -8,4 +8,6 @@ The application itself doesn't do much apart from convert the input file into th
 
 Use at your own risk, but apart from being silly and opening a file with viral content or something with it, it should do exactly what it says. There's no backwards conversion... i.e. you can't go from 3.0 to 2.1 but given its limitations, it does what it's designed for. The source code is available for you if you want to do more with it, but it's quick and dirty, so don't expect anything flash. It's written in C#.
 
+In fact, I've just noticed that I called it VFCConvert, whereas it really should VCFConvert! As I said, quick and dirty!
+
 Wez Hind 15/10/2024
